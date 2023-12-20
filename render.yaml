@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukiys
+    name: sumikaze-z
     env: python
     region: Oregon
     plan: free
